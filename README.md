@@ -29,7 +29,7 @@
   <a href="https://www.academic-scheduler.com" title="Website">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>&nbsp;
-  <a href="https://twitter.com/AcademicSched" title="X / Twitter">
+  <a href="https://x.com/AcadSched" title="X / Twitter">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>&nbsp;
   <a href="https://linkedin.com/company/academic-scheduler" title="LinkedIn">
@@ -202,7 +202,7 @@ We'd love to hear from you — whether it's a question, a demo request, or a par
 | :--- | :--- |
 | 📧 **Email** | [contact@academic-scheduler.com](mailto:contact@academic-scheduler.com) |
 | 📅 **Book a Demo** | [Schedule a free call](https://www.academic-scheduler.com) |
-| 🐦 **X (Twitter)** | [@AcademicSched](https://x.com/AcadSched) |
+| 🐦 **X (Twitter)** | [@AcadSched](https://x.com/AcadSched) |
 | 💼 **LinkedIn** | [linkedin.com/company/academic-scheduler](https://linkedin.com/company/academic-scheduler) |
 | 📘 **Facebook** | [facebook.com/academicscheduler](https://facebook.com/academicscheduler) |
 | 🎥 **YouTube** | [youtube.com/@academicscheduler](https://youtube.com/@academicscheduler) |
