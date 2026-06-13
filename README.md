@@ -50,9 +50,9 @@
 
 <!-- TRUST BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Trusted_by-500%2B_Institutions-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trusted_by-200%2B_Institutions-8E44AD?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Schedules_Generated-1M%2B-E74C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Schedules_Generated-3K%2B-E74C3C?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Conflicts_Prevented-99.9%25_Accuracy-2ECC71?style=flat-square" />
   &nbsp;
