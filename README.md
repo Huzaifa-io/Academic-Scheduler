@@ -4,7 +4,7 @@
 
 <h1>Academic Scheduler</h1>
 
-<h3>The #1 Course Scheduling Platform for Colleges & Universities</h3>
+<h3>The #1 Timetable Scheduling Platform for Colleges & Universities</h3>
 
 <p><em>Stop building schedules manually. Let Academic Scheduler handle conflicts, rooms, and faculty — automatically.</em></p>
 
@@ -199,7 +199,7 @@ We'd love to hear from you — whether it's a question, a demo request, or a par
 <div align="center">
 
 | 🌐 **Website** | [academic-scheduler.com](https://www.academic-scheduler.com) |
-|---|---|
+| :--- | :--- |
 | 📧 **Email** | [hello@academic-scheduler.com](mailto:hello@academic-scheduler.com) |
 | 📅 **Book a Demo** | [Schedule a free call](https://www.academic-scheduler.com) |
 | 🐦 **X (Twitter)** | [@AcademicSched](https://twitter.com/AcademicSched) |
