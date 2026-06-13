@@ -200,9 +200,9 @@ We'd love to hear from you — whether it's a question, a demo request, or a par
 
 | 🌐 **Website** | [academic-scheduler.com](https://www.academic-scheduler.com) |
 | :--- | :--- |
-| 📧 **Email** | [hello@academic-scheduler.com](mailto:hello@academic-scheduler.com) |
+| 📧 **Email** | [contact@academic-scheduler.com](mailto:contact@academic-scheduler.com) |
 | 📅 **Book a Demo** | [Schedule a free call](https://www.academic-scheduler.com) |
-| 🐦 **X (Twitter)** | [@AcademicSched](https://twitter.com/AcademicSched) |
+| 🐦 **X (Twitter)** | [@AcademicSched](https://x.com/AcadSched) |
 | 💼 **LinkedIn** | [linkedin.com/company/academic-scheduler](https://linkedin.com/company/academic-scheduler) |
 | 📘 **Facebook** | [facebook.com/academicscheduler](https://facebook.com/academicscheduler) |
 | 🎥 **YouTube** | [youtube.com/@academicscheduler](https://youtube.com/@academicscheduler) |
@@ -218,7 +218,7 @@ We'd love to hear from you — whether it's a question, a demo request, or a par
 
 [![GitHub stars](https://img.shields.io/github/stars/Huzaifa-io/Academic-Scheduler?style=social)](https://github.com/Huzaifa-io/Academic-Scheduler/stargazers)
 &nbsp;&nbsp;
-[![Follow on X](https://img.shields.io/badge/Follow-%40AcademicSched-000000?style=social&logo=X)](https://twitter.com/AcademicSched)
+[![Follow on X](https://img.shields.io/badge/Follow-%40AcademicSched-000000?style=social&logo=X)](https://x.com/AcadSched)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/company/academic-scheduler)
 
